@@ -37,6 +37,21 @@
 
 <br>
 
+### 📬 Contact
+
+<div align="center">
+
+<a href="mailto:nswtop13@naver.com">
+  <img src="https://img.shields.io/badge/Naver-nswtop13%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+</a>
+<a href="mailto:top020666@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-top020666%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
 ### 📊 GitHub Stats
 
 <div align="center">
