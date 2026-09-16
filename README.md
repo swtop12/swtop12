@@ -17,14 +17,6 @@
 
 <br>
 
-## 🎓 Education
-
-| 학교 | 학위 | 학점 |
-|---|---|---|
-| 부산외국어대학교 (Busan University of Foreign Studies) | 학사 졸업 | 3.81 |
-
-<br>
-
 ## 🧰 Tech Stack
 
 **Languages**
