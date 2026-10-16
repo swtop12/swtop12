@@ -8,15 +8,6 @@
 
 </div>
 
-## 🧠 About Me
-
-- 🔍 LLM 애플리케이션의 **평가(evaluation) · 관측성(observability)** 파이프라인 구축에 관심이 많습니다
-- 🖼️ 멀티모달(이미지·텍스트) 파이프라인과 RAG 워크플로를 실습하고 있습니다
-- 🛠️ `LangChain` · `LangSmith` · `LiteLLM`으로 서비스를 계측하고 자동 채점하는 걸 좋아합니다
-- 📈 목표: 프롬프트/모델을 바꿔도 품질을 숫자로 증명할 수 있는 AI 서비스를 만드는 것
-
-<br>
-
 ## 🧰 Tech Stack
 
 **Languages**
